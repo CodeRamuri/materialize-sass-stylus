@@ -1,0 +1,5 @@
+import './index.pug'
+import './css/estilos.styl'
+import './js/index.js' 
+import './img/logo.jpg'
+import './img/descarga.jpeg'
